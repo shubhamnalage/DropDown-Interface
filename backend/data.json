@@ -1,0 +1,71 @@
+[
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "states": [
+        {
+          "state_code": "DL",
+          "state_name": "Delhi",
+          "cities": [
+            {
+              "city_code": "DL_01",
+              "city_name": "New Delhi"
+            },
+            {
+              "city_code": "DL_02",
+              "city_name": "Gurgaon"
+            }
+          ]
+        },
+        {
+          "state_code": "MH",
+          "state_name": "Maharashtra",
+          "cities": [
+            {
+              "city_code": "MH_01",
+              "city_name": "Mumbai"
+            },
+            {
+              "city_code": "MH_02",
+              "city_name": "Pune"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "US",
+      "country_name": "United States",
+      "states": [
+        {
+          "state_code": "CA",
+          "state_name": "California",
+          "cities": [
+            {
+              "city_code": "CA_01",
+              "city_name": "Los Angeles"
+            },
+            {
+              "city_code": "CA_02",
+              "city_name": "San Francisco"
+            }
+          ]
+        },
+        {
+          "state_code": "NY",
+          "state_name": "New York",
+          "cities": [
+            {
+              "city_code": "NY_01",
+              "city_name": "New York City"
+            },
+            {
+              "city_code": "NY_02",
+              "city_name": "Buffalo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
